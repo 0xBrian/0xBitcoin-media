@@ -1,0 +1,20 @@
+The first mineable token on Ethereum
+The decentralized Bitcoin token on Ethereum
+
+Ethereum Scaling
+Benefits from Ethereum scaling solutions like Sharding and Plasma.
+Enhanced protection against 51% attacks by utilizing the Ethereum network.
+
+Interoperability with smart contracts
+0xBitcoin is able to interact with the Ethereum smart contract ecosystem, e.g., decentralized exchanges (DEXes) and Dapps.
+
+Distribution through Proof-of-Work Hash Mining
+Bitcoin's 10-minute block time, automatic difficulty adjustment, SHA-3 Keccak256 PoW algorithm, and 39 halvening eras.
+
+Lava Wallet
+Lava Wallet will allow the easy transfer of 0xBTC between users. Using off-chain digital signatures and a network of relays, users can send 0xBTC without worrying about Ethereum gas fees.
+
+Decentralized community project
+Decentralized, open-source, permissionless community project that anyone can start to work on, build stuff for, and use.
+
+Sources:

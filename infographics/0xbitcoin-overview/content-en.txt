@@ -1,0 +1,15 @@
+0xBitcoin mineable token overview
+
+Properties
+Autonomous decentralized currency
+Resistant to 51% attacks
+Lava Wallet: off-chain transfers without Ether
+SHA-3 Keccak256 proof-of-work algorithm
+Automatic difficulty adjustment
+Works with Ethereum smart contracts
+No ICO or premine
+
+Mining pools
+
+In 2018, over 5 Terahash was achieved!
+$4M market cap

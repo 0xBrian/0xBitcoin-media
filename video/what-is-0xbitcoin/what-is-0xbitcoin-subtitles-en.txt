@@ -1,0 +1,46 @@
+0xBitcoin is the first fully decentralized ERC20 token
+and is the first purely mined token on Ethereum
+and it aims to be the primary medium of exchange
+and store of value on the Ethereum network.
+The 0xBitcoin token was deployed to the Ethereum blockchain in
+February 2018 with the following attributes:
+first mineable token,
+ERC20 compatible,
+no pre-mine or instamine,
+and no ICO.
+Ether was never intended to act as a currency, and
+0xBitcoin will allow Ether to fulfill its sole intended purpose
+of securing the Ethereum network.
+0xBitcoin takes the best properties of Bitcoin and Ethereum
+and combines them into one token.
+It can be mined exactly like Bitcoin
+but transferred 10 times faster and 100 times cheaper.
+0xBitcoin combines the Bitcoin properties of
+block rewards, proof-of-work issuance,
+and a 21 million coin cap
+with the Ethereum properties of
+speed, DApps, and DEX trading.
+And unlike Ether, it interfaces with smart contracts
+for storing and transferring value.
+While Bitcoin can only be traded using centralized means,
+0xBitcoin can be traded permissionlessly via
+smart contracts which cannot be affected or controlled
+by central entities.
+It is also immune to 51% attacks.
+Add all this to the proven market demand for a
+faster version of Bitcoin, as we've seen in
+Litecoin's success, and it is plain that
+0xBitcoin fills a hole in the crypto market space.
+People are excited about the project in no small part due to
+the decentralization of the token
+and the active and engaged community
+which has sprung up around the token.
+The community has achieved several key milestones
+since the project's launch, including
+creating an EIP specifically for mineable tokens,
+creation of mining pools with multiple new mining clients,
+as well as ongoing development of Lava Wallet,
+Quarry, and off-chain transactions.
+0xBitcoin is a unique project, backed by a passionate community
+dedicated to making it the primary transfer of value
+for the Ethereum network.

@@ -1,0 +1,18 @@
+The first token without needing gas
+Lava Token
+The token that transfers on Ethereum without needing Ether
+
+Lava Desktop Wallet
+The desktop Lava Wallet is the first Ethereum wallet that has absolutely nothing to do with Ether. Interact with any Lava relay to send and receive Lava tokens.
+
+Atomic swaps
+Every Lava token is 1:1 backed by 0xBitcoin. Change Lava tokens to 0xBitcoin and back.
+
+Mathematically backed by proof-of-work 0xBitcoin 1:1
+Inherits Bitcoin's 10-minute block time, automatic difficulty adjustment, SHA-3 Keccak256 proof-of-work algorithm and 39 halvening eras.
+
+Lava Packets
+Using off-chain digital signatures and a network of relays, users can send Lava tokens without worrying about Ethereum gas fees.
+
+Relay Nodes (Layer 2)
+Relay nodes (layer 2) will forward Lava packets on behalf of users in exchange for Lava. Every user can run their own relay node.

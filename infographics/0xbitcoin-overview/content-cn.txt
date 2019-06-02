@@ -13,3 +13,5 @@ SHA-3 Keccak256 工作量证明算法
 
 2018 年，共实现了超过 5 Terahash！
 400 万美元总市值
+
+来源：0xbitcoin.org

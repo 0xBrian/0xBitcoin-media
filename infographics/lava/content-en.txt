@@ -15,4 +15,9 @@ Lava Packets
 Using off-chain digital signatures and a network of relays, users can send Lava tokens without worrying about Ethereum gas fees.
 
 Relay Nodes (Layer 2)
-Relay nodes (layer 2) will forward Lava packets on behalf of users in exchange for Lava. Every user can run their own relay node.
+Relay nodes (layer 2) will forward Lava packets on behalf of users in exchange for Lava. Any user can run their own relay node.
+
+Sources
+https://github.com/admazzola/lava-token
+https://github.com/admazzola/lava-relay-node
+https://github.com/admazzola/lava-packet-utils

@@ -17,7 +17,6 @@ Lava 包
 中继节点（第 2 层）
 中继节点将代表用户转发 Lava 数据包，以换取 Lava。每个用户都可以运行自己的中继节点。
 
-
 来源
 https://github.com/admazzola/lava-token
 https://github.com/admazzola/lava-relay-node

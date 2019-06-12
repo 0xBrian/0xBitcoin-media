@@ -13,3 +13,5 @@ Mining pools
 
 In 2018, over 5 Terahash was achieved!
 $4M market cap
+
+Source: 0xbitcoin.org

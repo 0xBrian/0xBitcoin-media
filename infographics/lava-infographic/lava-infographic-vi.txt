@@ -1,0 +1,23 @@
+Token đầu tiên không cần gas
+Token Lava
+Token truyền trên Ethereum mà không cần Ether
+
+Ví Lava cho máy tính để bàn
+Ví Lava cho máy tính để bàn là ví Ethereum đầu tiên hoàn toàn không cần đến Ether. Tương tác với mọi nút chuyển tiếp Lava để gửi và nhận token Lava.
+
+Hoán đổi nguyên tử
+Mỗi token Lava được 0xBitcoin hỗ trợ 1:1. Thay đổi token Lava thành 0xBitcoin và ngược lại.
+
+Về mặt toán học, được hỗ trợ 1:1 bởi 0xBitcoin qua giao tức bằng chứng công việc
+Kế thừa thời gian mỗi khối 10 phút của Bitcoin, tự động điều chỉnh độ khó, thuật toán bằng chứng công việc SHA-3 Keccak256 và 39 lần chia đôi.
+
+Gói Lava
+Bằng cách sử dụng chữ ký số ngoài chuỗi và mạng lưới chuyển tiếp, người dùng có thể gửi token Lava mà không phải lo lắng về phí gas Ethereum.
+
+Nút chuyển tiếp (Lớp 2)
+Các nút chuyển tiếp (lớp 2) sẽ chuyển tiếp các gói Lava thay mặt cho người dùng để đổi lấy Lava. Mọi người dùng đều có thể chạy nút chuyển tiếp của riêng họ.
+
+Nguồn
+https://github.com/admazzola/lava-token
+https://github.com/admazzola/lava-relay-node
+https://github.com/admazzola/lava-packet-utils

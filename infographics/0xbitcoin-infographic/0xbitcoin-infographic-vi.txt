@@ -1,0 +1,20 @@
+Token có thể khai thác đầu tiên trên Ethereum
+Token Bitcoin phi tập trung trên Ethereum
+
+Nhân rộng Ethereum
+Lợi ích từ các giải pháp nhân rộng Ethereum như Sharding và Plasma.
+Tăng cường bảo vệ chống lại 51% các cuộc tấn công bằng cách sử dụng mạng Ethereum.
+
+Khả năng tương tác với các hợp đồng thông minh
+0xBitcoin có thể tương tác với hệ sinh thái hợp đồng thông minh Ethereum, ví dụ như các sàn giao dịch phi tập trung (DEX) và Dapp.
+
+Phân phối thông qua khai thác hàm băm bằng giao thức Bằng chứng công việc (PoW)
+Thời gian mỗi khối 10 phút của Bitcoin, tự động điều chỉnh độ khó, thuật toán PoW SHA-3 Keccak256 và 39 lần chia đôi.
+
+Ví Lava
+Ví Lava sẽ cho phép dễ dàng chuyển 0xBTC giữa những người dùng. Bằng cách sử dụng chữ ký số ngoài chuỗi và mạng lưới chuyển tiếp, người dùng có thể gửi 0xBTC mà không phải lo lắng về phí gas Ethereum.
+
+Dự án cộng đồng phi tập trung
+Dự án cộng đồng phi tập trung, mã nguồn mở, không cần cho phép mà bất kỳ ai đều có thể bắt đầu nghiên cứu, xây dựng nền tảng và sử dụng.
+
+Nguồn:

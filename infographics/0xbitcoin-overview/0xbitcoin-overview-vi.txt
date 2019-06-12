@@ -1,0 +1,17 @@
+Tổng quan về token có thể khai thác 0xBitcoin
+
+Thuộc tính
+Tiền tệ phi tập trung tự quản
+Chống lại 51% các cuộc tấn công
+Ví Lava: chuyển ngoài chuỗi mà không cần Ether
+Thuật toán bằng chứng công việc SHA-3 Keccak256
+Tự động điều chỉnh độ khó
+Làm việc với hợp đồng thông minh Ethereum
+Không có ICO hoặc khai thác sẵn
+
+Mỏ đào
+
+Năm 2018, đạt được hơn 5 Terahash!
+Vốn hóa thị trường 4 triệu USD
+
+Nguồn 0xbitcoin.org

@@ -1,3 +1,6 @@
+What is 0xBitcoin?
+An overview of 0xBitcoin, the first purely-mined ERC20 token on Ethereum.
+
 0xBitcoin is the first fully decentralized ERC20 token
 and is the first purely mined token on Ethereum
 and it aims to be the primary medium of exchange
